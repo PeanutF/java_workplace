@@ -1,0 +1,23 @@
+package com.bstek.dorado.sample.standardlesson.service;
+
+import java.util.Date;
+import java.util.Properties;
+
+import org.springframework.stereotype.Component;
+
+import com.bstek.dorado.annotation.Expose;
+import com.bstek.dorado.core.DoradoAbout;
+
+@Component
+public class SystemInfoService {
+
+	@Expose
+	public Properties getSystemInfo() {
+		Properties info = new Properties();
+		info.setProperty("product", DoradoAbout.getProductTitle());
+		info.setProperty("vender", DoradoAbout.getVendor());
+		info.setProperty("version", DoradoAbout.getVersion());
+		info.setProperty("data", new Date().toString());
+		return info;
+	}
+}

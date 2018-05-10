@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;StartTest/src/com/bstek/dorado/sample/standardlesson/junior/system/SystemInfoView.view.xml&apos; to &apos;SystemInfo.view.xml&apos;" description="Rename resource &apos;SystemInfoView.view.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/bstek/dorado/sample/standardlesson/junior/system/SystemInfoView.view.xml" name="SystemInfo.view.xml" stamp="1524310798399" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Welcome.view.xml&apos; to &apos;StartTest/src/com.bstek.dorado.sample.standardlesson.junior.system&apos;&#x0D;&#x0A;- Original project: &apos;stdlesson&apos;&#x0D;&#x0A;- Destination element: &apos;StartTest/src/com.bstek.dorado.sample.standardlesson.junior.system&apos;&#x0D;&#x0A;- Original element: &apos;Welcome.view.xml&apos;" description="Copy file" destination="=StartTest/src&lt;com.bstek.dorado.sample.standardlesson.junior.system" element1="src/com/bstek/dorado/sample/standardlesson/junior/system/Welcome.view.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1524064946658" units="0" version="1.0"/>
+</session>
